@@ -18,6 +18,6 @@ Aplicação web do tipo SPA (Single Page Application) desenvolvida em React, que
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/Miguel/crud-tenis.git
+git clone https://github.com/Miguelfc123/crud-tenis.git
 cd crud-tenis
 ```
